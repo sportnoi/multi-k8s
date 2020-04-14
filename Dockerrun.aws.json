@@ -1,6 +1,6 @@
 {
     "AWSEBDockerrunVersion":2,
-    "contianerDefinitions": [
+    "containerDefinitions": [
         {
             "name": "client",
             "image": "sportnoi/multi-client",
